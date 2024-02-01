@@ -1,4 +1,4 @@
-Data Collection Tecniques Projects
+**Data Collection Tecniques Projects**
 
 This repository contains one project carried out as part of the Data Collection Techniques course.
 
