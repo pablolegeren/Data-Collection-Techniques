@@ -16,6 +16,10 @@ The project aimed to learn how to work with APIs as an alternative source of dat
 
 This could be used to automate the publication of content on social networks using the functionalities offered by each of their APIs.
 
+  - Building an entire pipeline and output to Power BI service.
+
+Build an entire pipeline combining 2 different sources and output to Power BI service. Two tables have been used, table A from INE and table B from the EU with data on divorce in recent years. They have been combined and connected with Power BI to export the data. Finally, the process has been automated so that these data are automatically downloaded locally. 
+
 Feel free to explore the code and project details within this repository for a deeper understanding of the data collection techniques used in this project.
 
 
