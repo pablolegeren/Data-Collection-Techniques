@@ -1,0 +1,1 @@
+call "C://Users//pablo//anaconda3//Scripts//activate.bat" & cd "C://Users//pablo//Desktop//MASTER//RECOGIDA DE DATOS//ENTREGAS//" & python scrape.py
