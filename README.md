@@ -8,7 +8,7 @@ This repository contains some projects carried out as part of the Data Collectio
 
 This undertaking involves accessing Stack Overflow and executing searches for particular inquiries. The aim of this project is to seek out and collect pertinent data from Stack Overflow in order to address user questions and discover resolutions to prevalent programming issues.
 
-This project demonstrate the use of web scraping and API interactions to collect data from popular online platforms, enabling users to access and analyze information for various purposes.
+This project demonstrates the use of web scraping and API interactions to collect data from popular online platforms, enabling users to access and analyze information for various purposes.
 
   - Use of APIs (retrieval and tweeting)
 
@@ -18,7 +18,7 @@ This could be used to automate the publication of content on social networks usi
 
   - Building an entire pipeline and output to Power BI service.
 
-Build an entire pipeline combining 2 different sources and output to Power BI service. Two tables have been used, table A from INE and table B from the EU with data on divorce in recent years. They have been combined and connected with Power BI to export the data. Finally, the process has been automated so that these data are automatically downloaded locally. 
+Build an entire pipeline combining 2 different sources and output to Power BI service. Two tables have been used, table A from INE and table B from the EU with recent divorce data. They have been combined and connected with Power BI to export the data. Finally, the process has been automated using a scheduler so that this data is automatically downloaded locally. 
 
 Feel free to explore the code and project details within this repository for a deeper understanding of the data collection techniques used in this project.
 
