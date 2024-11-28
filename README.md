@@ -2,8 +2,6 @@
 
 This repository contains some projects carried out as part of the Data Collection Techniques course.
 
-**Final Grade: 10**
-
   - Retrieval of Information from Stack Overflow
 
 This undertaking involves accessing Stack Overflow and executing searches for particular inquiries. The aim of this project is to seek out and collect pertinent data from Stack Overflow in order to address user questions and discover resolutions to prevalent programming issues.
